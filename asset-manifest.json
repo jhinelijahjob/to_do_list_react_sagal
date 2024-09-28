@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/to_do_list_react_sagal/static/css/main.72246c9a.css",
+    "main.js": "/to_do_list_react_sagal/static/js/main.44c7397f.js",
+    "static/media/bg.jpg": "/to_do_list_react_sagal/static/media/bg.96c770924d6cca321006.jpg",
+    "index.html": "/to_do_list_react_sagal/index.html",
+    "main.72246c9a.css.map": "/to_do_list_react_sagal/static/css/main.72246c9a.css.map",
+    "main.44c7397f.js.map": "/to_do_list_react_sagal/static/js/main.44c7397f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72246c9a.css",
+    "static/js/main.44c7397f.js"
+  ]
+}
